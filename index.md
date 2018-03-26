@@ -29,17 +29,19 @@ Bill of Materials
 |Semiconductor, Wiring and dressing |1 | Shop Supplies |
 |--|--|--|
 
+
 Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before.
 
-![Pippin Finshed Switching Relay](/DIY-Maker-Space_Broadcast-Project/img/Pippin_Technical_Alert_Relay700px.jpg){: .screenshot} 
+![Pippin Finshed Switching Relay](/DIY-Maker-Space-Broadcast-Projects/img/Pippin_Technical_Alert_Relay700px.jpg
+){: .screenshot} 
 
 # DIY Hall of Fame
 
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
-![Front and Rear View Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Front_and_Rear700px.jpg){: .screenshot} 
+![Front and Rear View Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Front_and_Rear700px.jpg){: .screenshot} 
 
-![Audio Connections Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Audio_Connections700px.jpg){: .screenshot} 
+![Audio Connections Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Audio_Connections700px.jpg){: .screenshot} 
 
 
 
