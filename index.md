@@ -12,11 +12,11 @@ Have a really cool home made broadcast contraption or project? Send, plans, phot
 
 # DIY GPIO EAS Switching Relay
 
-Parts List Open Broadcaster Relay:
+__Parts List Open Broadcaster EAS Relay__
 
-Kit with diagram and assembly photos of a complete RS232 GPIO Switchin Relay .  Special Thanks to [Pippin Technical] (www.pippintech.com/) who supply  the parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Get a group together for a DIY maker space hands on training project.
+Kit with diagram and assembly photos of a complete RS232 GPIO Switchin Relay .  Special Thanks to [Pippin Technical] (www.pippintech.com/) who supply  the parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
 
-Bill of Materials
+__Bill of Materials__
 
 |--
 |Item Description|Quantity|Item No.| 
@@ -30,7 +30,7 @@ Bill of Materials
 |--|--|--|
 
 
-Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before.
+__Pippin Finshed Switching Relay__
 
 ![Pippin Finshed Switching Relay](/DIY-Maker-Space-Broadcast-Projects/img/Pippin_Technical_Alert_Relay700px.jpg
 ){: .screenshot} 
@@ -39,7 +39,11 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
+__Front and Rear View__
+
 ![Front and Rear View Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Front_and_Rear700px.jpg){: .screenshot} 
+
+__Audio Connections__
 
 ![Audio Connections Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Audio_Connections700px.jpg){: .screenshot} 
 
