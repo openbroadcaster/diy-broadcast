@@ -14,7 +14,7 @@ Have a really cool home made broadcast contraption or project? Send, plans, phot
 
 __Parts List Open Broadcaster EAS Relay__
 
-Kit with diagram and assembly photos of a complete RS232 GPIO Switchin Relay .  Special Thanks to [Pippin Technical] (http://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
+Kit with diagram and assembly photos of a complete RS232 GPIO Switchin Relay .  Special Thanks to [Pippin Technical](http://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
 
 __Bill of Materials__
 
