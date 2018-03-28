@@ -3,7 +3,8 @@
 [![GitHub license](https://img.shields.io/github/license/openbroadcaster/openbroadcaster.github.io.svg?style=flat-square)](https://github.com/openbroadcaster/openbroadcaster.github.io/blob/master/LICENSE)
 <img src="img/FOC.png" alt="OpenBroadcaster" width="280" align="right">
 
-This repository holds the source code to the [OpenBroadcaster PyrateRadio](http://support.openbroadcaster.com/PyrateRadio/) website, a [Jekyll](http://jekyllrb.com/)-powered site hosted for free on [GitHub Pages](https://pages.github.com/).
+This repository holds the source code to the [OpenBroadcaster DIY Maker Space Broadcast Projects
+](https://github.com/openbroadcaster/DIY-Maker-Space-Broadcast-Projects) website, a [Jekyll](http://jekyllrb.com/)-powered site hosted for free on [GitHub Pages](https://pages.github.com/).
 
 ### Development Notes
 
