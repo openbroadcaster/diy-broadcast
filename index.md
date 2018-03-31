@@ -14,7 +14,7 @@ Have a really cool home made broadcast contraption or project? Send, plans, phot
 
 __Parts List Open Broadcaster EAS Relay__
 
-Kit with diagram and assembly photos of a complete RS232 GPIO Switchin Relay .  Special Thanks to [Pippin Technical](http://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
+Kit with diagram and assembly photos of a complete RS232 GPIO Switching Relay .  Special Thanks to [Pippin Technical](http://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
 
 __Bill of Materials__
 
@@ -29,32 +29,28 @@ __Bill of Materials__
 |Semiconductor, Wiring and dressing |1 | Shop Supplies |
 |--|--|--|
 
+Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built electronics projects before.
 
-__Pippin Finshed Switching Relay__
+![ Internal View Switching Relay](/DIY-Maker-Space_Broadcast-Project/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .screenshot} 
 
-![Pippin Finshed Switching Relay](/DIY-Maker-Space-Broadcast-Projects/img/Pippin_Technical_Alert_Relay700px.jpg
-){: .screenshot} 
+
+![ Completed Switching Relay](/DIY-Maker-Space_Broadcast-Project/img/Pippin_Technical_Alert_Relay700px.jpg ){: .screenshot} 
 
 # DIY Hall of Fame
 
+## Switching Relay
+
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
-__Front and Rear View__
+![Front and Rear View Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Front_and_Rear700px.jpg ){: .screenshot} 
 
-![Front and Rear View Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Front_and_Rear700px.jpg){: .screenshot} 
+![Audio Connections Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Audio_Connections700px.jpg ){: .screenshot} 
 
-__Audio Connections__
+## 20 Db Annenuation
 
-![Audio Connections Ver 1](/DIY-Maker-Space-Broadcast-Projects/img/Ver1_Audio_Connections700px.jpg){: .screenshot} 
+Why bother buying a 15.00 inline adaptor when you can make it yourself with a few parts and a soldering iron.
 
+‘H’ or ‘T’ pads may also be fabricated to accomplish the same level of attenuation.For a balanced signal, use an H-Pad: input_impedance=30k Ω, output_impedance=10k Ω. The example below provides approximately -20dB of attenuation using resistors R 1/2= 12k Ω; R 2=3.3k Ω; R 3/2=3.3k Ω (ground wires should also be connected).
 
-
-
-
-
-
-
-
-
-
+![DIY Hpad Attenuators](/DIY-Maker-Space_Broadcast-Project/img/DIY_Hpad.png ){: .screenshot} 
 
