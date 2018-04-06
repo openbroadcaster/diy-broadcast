@@ -31,10 +31,10 @@ __Bill of Materials__
 
 Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built electronics projects before.
 
-![ Internal View Switching Relay](/DIY-Maker-Space_Broadcast-Project/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .screenshot} 
+![ Internal View Switching Relay](/diy-maker-space-broadcast-projects/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .screenshot} 
 
 
-![ Completed Switching Relay](/DIY-Maker-Space_Broadcast-Project/img/Pippin_Technical_Alert_Relay700px.jpg ){: .screenshot} 
+![ Completed Switching Relay](/diy-maker-space-broadcast-projects/img/Pippin_Technical_Alert_Relay700px.jpg ){: .screenshot} 
 
 # DIY Hall of Fame
 
@@ -42,9 +42,9 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
-![Front and Rear View Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Front_and_Rear700px.jpg ){: .screenshot} 
+![Front and Rear View Ver 1](/diy-maker-space-broadcast-projects/img/Ver1_Front_and_Rear700px.jpg ){: .screenshot} 
 
-![Audio Connections Ver 1](/DIY-Maker-Space_Broadcast-Project/img/Ver1_Audio_Connections700px.jpg ){: .screenshot} 
+![Audio Connections Ver 1](/diy-maker-space-broadcast-projects/img/Ver1_Audio_Connections700px.jpg ){: .screenshot} 
 
 ## 20 Db Annenuation
 
@@ -52,5 +52,5 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ‘H’ or ‘T’ pads may also be fabricated to accomplish the same level of attenuation.For a balanced signal, use an H-Pad: input_impedance=30k Ω, output_impedance=10k Ω. The example below provides approximately -20dB of attenuation using resistors R 1/2= 12k Ω; R 2=3.3k Ω; R 3/2=3.3k Ω (ground wires should also be connected).
 
-![DIY Hpad Attenuators](/DIY-Maker-Space_Broadcast-Project/img/DIY_Hpad.png ){: .screenshot} 
+![DIY Hpad Attenuators](/diy-maker-space-broadcast-projects/img/DIY_Hpad.png ){: .screenshot} 
 
