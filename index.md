@@ -42,7 +42,7 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
-![Front and Rear View Ver 1]/Ver1_Front_and_Rear700px.jpg ){: .screenshot} 
+![Front and Rear View Ver 1](/img/Ver1_Front_and_Rear700px.jpg ){: .screenshot} 
 
 ![Audio Connections Ver 1](/img/Ver1_Audio_Connections700px.jpg ){: .screenshot} 
 
