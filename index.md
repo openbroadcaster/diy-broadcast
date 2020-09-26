@@ -42,9 +42,9 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 Dave Currie of Faith FM Waterloo Ontario made this really professional EAS setup using a Intel NUC and a custom relay.  Nice work Dave!
 
-![Front and Rear View Ver 1](/img/Ver1_Front_and_Rear700px.jpg ){: .ver1_front} 
+![Front and Rear View Ver 1](/diy-broadcast/img/Ver1_Front_and_Rear700px.jpg ){: .ver1_front} 
 
-![Audio Connections Ver 1](/img/Ver1_Audio_Connections700px.jpg ){: .ver1_audio} 
+![Audio Connections Ver 1](/diy-broadcast/img/Ver1_Audio_Connections700px.jpg ){: .ver1_audio} 
 
 ## 20 Db Annenuation
 
@@ -52,5 +52,5 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ‘H’ or ‘T’ pads may also be fabricated to accomplish the same level of attenuation.For a balanced signal, use an H-Pad: input_impedance=30k Ω, output_impedance=10k Ω. The example below provides approximately -20dB of attenuation using resistors R 1/2= 12k Ω; R 2=3.3k Ω; R 3/2=3.3k Ω (ground wires should also be connected).
 
-![DIY Hpad Attenuators](/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
+![DIY Hpad Attenuators](/diy-broadcast/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
 
