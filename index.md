@@ -31,10 +31,10 @@ __Bill of Materials__
 
 Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built electronics projects before.
 
-![ Internal View Switching Relay](/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .relay} 
+![ Internal View Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .relay} Pippin_Technical_Alert_Relay_Internal700px.jpg
 
 
-![ Completed Switching Relay](/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} 
+![ Completed Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} 
 
 # DIY Hall of Fame
 
@@ -52,5 +52,5 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ‘H’ or ‘T’ pads may also be fabricated to accomplish the same level of attenuation.For a balanced signal, use an H-Pad: input_impedance=30k Ω, output_impedance=10k Ω. The example below provides approximately -20dB of attenuation using resistors R 1/2= 12k Ω; R 2=3.3k Ω; R 3/2=3.3k Ω (ground wires should also be connected).
 
-![DIY Hpad Attenuators](/img/DIY_Hpad.png ){: .hpad} 
+![DIY Hpad Attenuators](/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
 
