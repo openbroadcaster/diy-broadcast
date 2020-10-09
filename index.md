@@ -12,9 +12,11 @@ Have a really cool home made broadcast contraption or project? Send, plans, phot
 
 # DIY GPIO EAS Switching Relay
 
+This relay, allows your stations signal to pass through, unprocessed to transmitter chain.  When a CAP alertcode is active. DTR asserts pin 4 High on a DB9 RS232 cable with 5 Volts during the alert.  When the alert is concluded, pin 4 goes low, allowing regular programming to pass through.  At present this works with DB9 cables for GPIO.   We would like to hear from anyone that has got this to work with a USB cable.  In future, we will be adding this to GPIO headers on Raspberry Pi computers.
+
 __Parts List Open Broadcaster EAS Relay__
 
-Kit with diagram and assembly photos of a complete RS232 GPIO Switching Relay .  Special Thanks to [Pippin Technical](http://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
+Kit with diagram and assembly photos of a complete RS232 GPIO Switching Relay .  Special Thanks to [Pippin Technical](https://pippintech.com/) supplier of parts in a kit form if that has any appeal for around $150 or the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
 
 __Bill of Materials__
 
@@ -31,10 +33,9 @@ __Bill of Materials__
 
 Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built electronics projects before.
 
-![ Internal View Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .relay} Pippin_Technical_Alert_Relay_Internal700px.jpg
+![ Internal View Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay_Internal700px.jpg ){: .relay} Internal View Pippin Technical Alert Relay
 
-
-![ Completed Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} 
+![ Completed Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} Completed Pippin Technical Alert Relay
 
 # DIY Hall of Fame
 
@@ -54,3 +55,10 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ![DIY Hpad Attenuators](/diy-broadcast/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
 
+## DIY FM Antenna
+
+Materials needed:
+
+- Length of rg 59 (50 Ohm) coaxial cable
+- (1) Type F Connector
+- Utlity knife
