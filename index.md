@@ -47,7 +47,7 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 ![ Completed Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} Completed Pippin Technical Alert Relay
 
-## HF Long Radnge Antenna 
+## HF Long Range Antenna 
 
 Materials needed:
 
