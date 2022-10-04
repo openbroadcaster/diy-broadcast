@@ -59,10 +59,34 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ![DIY Hpad Attenuators](/diy-broadcast/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
 
-## DIY FM Antenna
+# DIY Broadcast Radio Projects
+
+## DIY FM Bush Antenna
 
 Materials needed:
 
-- 3 meter length of common RG6 or RG59 (50 Ohm) coaxial cable
+- 3 -5 meter length of common RG6 or RG59 (75 Ohm) coaxial cable
+
 - (1) Type F Connector
+
 - Utility knife and nail clippers
+
+## Pringles Chip Can Wifi Extender
+
+Materials needed:
+
+- Empty Pringles Can
+
+- Type "N" connector
+
+- Bare copper wire
+
+- Soldering iron
+
+## HF Long Radnge Antenna 
+
+Materials needed:
+
+- Bare copper wire
+
+- ABS 1" Insulator rings
