@@ -18,33 +18,13 @@ Materials needed:
 
 - Utility knife and nail clippers
 
-## Pringles Chip Can Wifi Extender
-
-Materials needed:
-
-- Empty Pringles Can
-
-- Type "N" connector
-
-- Bare copper wire
-
-- Soldering iron
-
-## HF Long Radnge Antenna 
-
-Materials needed:
-
-- Bare copper wire
-
-- ABS 1" Insulator rings
-
 ## GPIO EAS Switching Relay
 
-This relay, allows your stations signal to pass through, unprocessed to transmitter chain.  When a CAP alert code is active. DTR asserts pin 4 High on a DB9 RS232 cable with 5 Volts during the alert.  When the alert is concluded, pin 4 goes low, allowing regular programming to pass through.  At present this works with DB9 cables to trigger external relays and supports GPIO headers on Raspberry Pi computers.   We would like to hear from anyone that has got this to work with a USB cable.  
+This relay, allows your station's signal to pass through, unprocessed to transmitter chain.  When a CAP alert code is active. DTR asserts pin 4 High on a DB9 RS232 cable with 5 Volts during the alert.  When the alert is concluded, pin 4 goes low, allowing regular programming to pass through.  At present this works with DB9 cables to trigger external relays and supports GPIO headers on Raspberry Pi computers.   We would like to hear from anyone that has got this to work with a USB cable.  
 
 __Parts List OpenBroadcaster EAS Relay__
 
-Kit with diagram and assembly photos of a complete RS232 GPIO Switching Relay .  Special Thanks to [Pippin Technical](https://pippintech.com/) for this example  parts kit for the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. Get a group together for a DIY maker space hands on training project.
+Kit with diagram and assembly photos of a complete RS232 GPIO Switching Relay .  Special Thanks to [Pippin Technical](https://pippintech.com/) for this example  parts kit for the completed switching relay.  Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and testing with the OB Alert Player. Might take a bit longer for groups that have never built one before. 
 
 __Bill of Materials__
 
@@ -67,6 +47,26 @@ Full assembly takes 2 +/- hours for all mounting, cable prep, soldering and test
 
 ![ Completed Switching Relay](/diy-broadcast/img/Pippin_Technical_Alert_Relay700px.jpg ){: .relay2} Completed Pippin Technical Alert Relay
 
+## HF Long Radnge Antenna 
+
+Materials needed:
+
+- Bare copper wire
+
+- ABS 1" Insulator rings
+
+## Pringles Chip Can Wifi Extender
+
+Materials needed:
+
+- Empty Pringles Can
+
+- Type "N" connector
+
+- Bare copper wire
+
+- Soldering iron
+
 # DIY Hall of Fame
 
 ## Switching Relay
@@ -87,7 +87,7 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 # Share your DIY Maker Space Broadcast Projects
 
-Have a really cool home made broadcast contraption or project? Send, plans, photos or additional instructions to share with the world wide maker space community.
+Have a really cool home made broadcast contraption or project? Send, plans, photos or additional instructions to share with the world wide maker space community.  Get a group together for a DIY maker space hands on training project.
 
 Subscribe to our [Newsletter](https://openbroadcaster.com/newsletter) There are many DIY projects ongoing that we continue to share.
 
