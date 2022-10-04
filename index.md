@@ -6,13 +6,39 @@ title: index
 * TOC
 {:toc}
 
-# Share your DIY Maker Space Broadcast Projects
+# Broadcast Projects
 
-Have a really cool home made broadcast contraption or project? Send, plans, photos or additional instructions to share with the world wide maker space community.
+## FM Bush Antenna
 
-Check back or subscribe to our [Newsletter](https://openbroadcaster.com/newsletter) There are many DIY projects ongoing that we will continue to share.
+Materials needed:
 
-# DIY GPIO EAS Switching Relay
+- 3 -5 meter length of common RG6 or RG59 (75 Ohm) coaxial cable
+
+- (1) Type F Connector
+
+- Utility knife and nail clippers
+
+## Pringles Chip Can Wifi Extender
+
+Materials needed:
+
+- Empty Pringles Can
+
+- Type "N" connector
+
+- Bare copper wire
+
+- Soldering iron
+
+## HF Long Radnge Antenna 
+
+Materials needed:
+
+- Bare copper wire
+
+- ABS 1" Insulator rings
+
+## GPIO EAS Switching Relay
 
 This relay, allows your stations signal to pass through, unprocessed to transmitter chain.  When a CAP alert code is active. DTR asserts pin 4 High on a DB9 RS232 cable with 5 Volts during the alert.  When the alert is concluded, pin 4 goes low, allowing regular programming to pass through.  At present this works with DB9 cables to trigger external relays and supports GPIO headers on Raspberry Pi computers.   We would like to hear from anyone that has got this to work with a USB cable.  
 
@@ -59,34 +85,9 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 ![DIY Hpad Attenuators](/diy-broadcast/img/DIY_Hpad.png ){: .hpad} DIY_Hpad.png
 
-# DIY Broadcast Radio Projects
+# Share your DIY Maker Space Broadcast Projects
 
-## DIY FM Bush Antenna
+Have a really cool home made broadcast contraption or project? Send, plans, photos or additional instructions to share with the world wide maker space community.
 
-Materials needed:
+Subscribe to our [Newsletter](https://openbroadcaster.com/newsletter) There are many DIY projects ongoing that we continue to share.
 
-- 3 -5 meter length of common RG6 or RG59 (75 Ohm) coaxial cable
-
-- (1) Type F Connector
-
-- Utility knife and nail clippers
-
-## Pringles Chip Can Wifi Extender
-
-Materials needed:
-
-- Empty Pringles Can
-
-- Type "N" connector
-
-- Bare copper wire
-
-- Soldering iron
-
-## HF Long Radnge Antenna 
-
-Materials needed:
-
-- Bare copper wire
-
-- ABS 1" Insulator rings
