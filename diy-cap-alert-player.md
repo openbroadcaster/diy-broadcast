@@ -1,3 +1,9 @@
+---
+layout: default
+title: DIY-Alert-Player
+permalink: /diy-alert-player
+---
+
 ## Standalone Emergency Alerting CAP Player
 
 OBPlayer can be set up as a standalone CAP alert broadcaster. Install OBPlayer in-line with your broadcast audio\video chain and it will automatically interrupt the regular broadcast when it receives a valid CAP-CP formated alert. Use the DIY RS232 GPIO to trigger relays to cut into scheduled programming.
