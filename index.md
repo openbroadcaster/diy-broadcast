@@ -92,5 +92,5 @@ Why bother buying a 15.00 inline adaptor when you can make it yourself with a fe
 
 Have a really cool home made broadcast contraption or project? Send, plans, photos or additional instructions to share with the world wide maker space community.  Get a group together for a DIY maker space hands on training project.
 
-Subscribe to our [Newsletter](https://openbroadcaster.com/newsletter) There are many DIY projects ongoing that we continue to share.
+Subscribe to our [Newsletter](https://www.openbroadcaster.com/company/newsletter/) There are many DIY projects ongoing that we continue to share.
 
